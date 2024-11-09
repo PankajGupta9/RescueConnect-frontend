@@ -1,4 +1,4 @@
-const BASE_URL = "https://rescueconnect-backend-1.onrender.com/api/n1";
+const BASE_URL = "https://rescueconnect-backend-x2ib.onrender.com";
 
 // AGENCY END POINTS
 export const agencyEndPoints = {
