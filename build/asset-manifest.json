@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4d101113.css",
+    "main.js": "/static/js/main.7a8d40ca.js",
+    "static/media/vecteezy_3d-male-character-happy-working-on-a-laptop_24387907_314.png": "/static/media/vecteezy_3d-male-character-happy-working-on-a-laptop_24387907_314.6feb0f462c92b9baf23f.png",
+    "static/media/signup.png": "/static/media/signup.4102c6cff0cd67088464.png",
+    "static/media/banner_third.png": "/static/media/banner_third.a55236e60ee4ba3a6082.png",
+    "static/media/wallpaperflare.com_wallpaper.jpg": "/static/media/wallpaperflare.com_wallpaper.afec3ba42eb12c02940c.jpg",
+    "static/media/banner_first.png": "/static/media/banner_first.6359dc2d1220359dd61d.png",
+    "static/media/banner_second.png": "/static/media/banner_second.6cfa09ad44a638d583ab.png",
+    "static/media/update disaster.png": "/static/media/update disaster.4443fff8169dbe80e3bb.png",
+    "static/media/contact-us.png": "/static/media/contact-us.91964cc748bc1d9488bb.png",
+    "static/media/contactbackground.jpg": "/static/media/contactbackground.4475a3e92fb397b7f860.jpg",
+    "static/media/login-page.svg": "/static/media/login-page.7c5d2a38aaee29288db0.svg",
+    "static/media/logo.svg": "/static/media/logo.63faeab36e729bf001e06e00ee6fea8f.svg",
+    "index.html": "/index.html",
+    "main.4d101113.css.map": "/static/css/main.4d101113.css.map",
+    "main.7a8d40ca.js.map": "/static/js/main.7a8d40ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d101113.css",
+    "static/js/main.7a8d40ca.js"
+  ]
+}
