@@ -21,13 +21,13 @@ const AboutUs = () => {
 
         {/* info div */}
         <div className="md:w-6/12 sm:w-full sm:mt-4 text-lg font-Roborto opacity-80 text-center">
-          {`"At MDU Rohtak, we are a dedicated team of aspiring engineers pursuing 
-          our B.Tech in Computer Science and Engineering. With a passion for technology
-           and innovation, we embarked on our journey to create cutting-edge solutions.
+          {`"At Ignou, I am  a dedicated student from ignou  pursuing 
+          my BCA in Computer Science. With a passion for technology
+           and innovation, I embarked on my journey to create cutting-edge solutions.
             Leveraging the power of the MERN stack (MongoDB, Express.js, React, and Node.js),
-             we've developed applications that push boundaries and redefine user experiences.
-              Our mission is to continually learn, grow, and contribute to the ever-evolving 
-              field of technology while striving for excellence in every project we undertake."`}
+             I've developed applications that push boundaries and redefine user experiences.
+              My mission is to continually learn, grow, and contribute to the ever-evolving 
+              field of technology while striving for excellence in every project i undertake."`}
         </div>
 
         {/* Image cards */}
