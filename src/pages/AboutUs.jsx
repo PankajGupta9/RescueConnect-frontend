@@ -1,13 +1,43 @@
 import React from "react";
 import ImageCard from "../components/ImageCard";
-import NeerajPic from "../assets/team/pankaj.jpg";
+import HarshPic from "../assets/team/harsh.jpg";
+import MukeshPic from "../assets/team/mukesh.jpg";
+import SmritiPic from "../assets/team/smriti.jpg";
+import NeerajPic from "../assets/team/neeraj.jpg";
+import AdityaPic from "../assets/team/aditya.jpeg";
+import SanveevPic from "../assets/team/sanjeev.jpeg";
 
 const AboutUs = () => {
   const photos = [
     {
       id: 1,
-      name: "Pankaj",
+      name: "Harsh",
       img: HarshPic,
+    },
+    {
+      id: 2,
+      name: "Mukesh",
+      img: MukeshPic,
+    },
+    {
+      id: 3,
+      name: "Sanjeev",
+      img: SanveevPic,
+    },
+    {
+      id: 4,
+      name: "Smriti",
+      img: SmritiPic,
+    },
+    {
+      id: 5,
+      name: "Neeraj",
+      img: NeerajPic,
+    },
+    {
+      id: 6,
+      name: "Aditya",
+      img: AdityaPic,
     },
   ];
 

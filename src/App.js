@@ -10,7 +10,6 @@ import Login from "./pages/Auth/Login";
 import ChangePassword from "./pages/Auth/ChangePassword";
 import SignUp from "./pages/Auth/SignUp";
 import Contact from "./pages/Contact";
-import AboutUs from "./pages/AboutUs";
 import { useDispatch, useSelector } from "react-redux";
 import { AuthTypes } from "./redux/action_types";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
@@ -91,7 +90,7 @@ function App() {
             </PrivateRoute>
           }
         />
-        <Route path="/about" element={<AboutUs />} />
+        {/* <Route path="/about" element={<AboutUs />} />{" "} */}
         {/* This is now an open route */}
         <Route path="/contact" element={<Contact />} />
         <Route path="/signup" element={<SignUp />} />
