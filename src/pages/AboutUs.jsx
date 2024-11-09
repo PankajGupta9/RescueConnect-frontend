@@ -1,13 +1,13 @@
 import React from "react";
 import ImageCard from "../components/ImageCard";
-import NeerajPic from "../assets/team/pankaj.jpg";
+import PankajPic from "../assets/team/pankaj.jpg";
 
 const AboutUs = () => {
   const photos = [
     {
       id: 1,
       name: "Pankaj",
-      img: HarshPic,
+      img: PankajPic,
     },
   ];
 
